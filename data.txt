@@ -23,7 +23,7 @@
 	"content": "Music is a thing which touches your heart. Listening to music can change your mind from sad to energitic.<br>Thank you for taking us to this dive of music.",
 	"id": "mu"
 }, {
-	"content": "Geography is everywhere in the earth. Geography helps you to understand the working and beauty of the world world.<br>Thank you for teaching us geography and making us feel the importance of our precious earth.",
+	"content": "Geography is everywhere in the earth. Geography helps you to understand the working and beauty of the world.<br>Thank you for teaching us geography and making us feel the importance of our precious earth.",
 	"id": "ge"
 }, {
 	"content": "Civics is the part which teaches us our responsibilities. Civics is the path of being a resposible citizen.<br>Thank you for helping us understand our constitution.",
